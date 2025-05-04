@@ -1,0 +1,5 @@
+hello world
+hadoop is cool
+hello mapreduce
+
+run this in terminal: type input.txt | python word_mapper.py | sort | python word_reducer.py
